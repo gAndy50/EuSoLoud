@@ -21,7 +21,7 @@ This software is provided as-is. There is no warranty for this software. You use
 your own risk. You may not hold the developer, Soloud developers or Euphoria developers for anything
 you do with this library. You may distribute You may distribute creations developed with this wrapper
 as you please. This software is provided in the event that it is helpful. You may not claim you wrote
-the original wrapper. An acknowledge would be nice, but not required. 
+the original wrapper. An acknowledgement would be nice, but not required. 
 
 You can find Soloud license here: http://soloud-audio.com/legal.html
 
