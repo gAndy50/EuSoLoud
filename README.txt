@@ -25,6 +25,9 @@ the original wrapper. An acknowledgement would be nice, but not required.
 
 You can find Soloud license here: http://soloud-audio.com/legal.html
 
+Phix Version: https://sites.google.com/view/eusoloudphixedition
+Phix version provided by Chris. 
+
 Thanks for using!
 
 Special Thanks to Euphoria community!
