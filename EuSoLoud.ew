@@ -6,7 +6,7 @@
 --Eu Ver: 4.1.0 Beta 2			 --
 --SoLoud Ver: 202002			 --
 --Audio Library					 --
---Copyright (c) 2022			 --
+--Copyright (c) 2023			 --
 -----------------------------------
 
 include std/machine.e
