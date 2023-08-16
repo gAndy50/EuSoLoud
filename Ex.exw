@@ -1,4 +1,4 @@
-include EuSoLoud.ew
+include EuSoLoud.ew --old
 
 include flags.e
 
@@ -37,4 +37,4 @@ end while
 Soloud_deinit(so)
 
 Speech_destroy(spc)
-­14.31
+Â­14.31
